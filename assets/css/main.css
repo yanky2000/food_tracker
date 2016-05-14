@@ -1,0 +1,9 @@
+.sections-container {
+  display: flex;
+}
+
+.sections-container .search-container,
+.sections-container .ration-container {
+  width: 50%;
+  border: 1px solid red;
+}
